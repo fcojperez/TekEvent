@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+	<testsuite errors="0" failures="0" hostname="MacPaco" id="0"
+		name="TekEventSpec" package="es.cadadosxtres" tests="1" time="4.593"
+		timestamp="2015-06-07T21:20:47">
+		<properties />
+
+		<testcase classname="es.cadadosxtres.TekEventSpec" name="test toString"
+			time="4.477" />
+
+		<system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+		<system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+	</testsuite>
+</testsuites>
